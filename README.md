@@ -1,2 +1,2 @@
 # checkers
-Claire's Major Project - Checkers
+Claire's Major Project - Checkers Game
